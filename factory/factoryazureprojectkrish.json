@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureprojectkrish",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fcf5b805-a951-478f-a416-7f9698cd86a1",
+		"tenantId": "1cb167f7-2077-4495-a904-ab1d9f6e2f28"
+	}
+}
